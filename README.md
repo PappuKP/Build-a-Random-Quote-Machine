@@ -1,4 +1,4 @@
-# FreeCodeCamp-Challenge | Intermediate Front End Development Project
+# FreeCodeCamp-Challenge | Front End Libraries Certification Project
 
 # Build a Random Quote Machine
 
